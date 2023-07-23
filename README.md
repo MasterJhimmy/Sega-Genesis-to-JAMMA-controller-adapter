@@ -1,6 +1,6 @@
 # Sega Genesis/Mega Drive to JAMMA Controller Adapter
 
-**WARNNING:** Check the compatibility of your hardware, I'm not responsible for any damage caused to your equipment. 
+**WARNING:** Check the compatibility of your hardware, I'm not responsible for any damage caused to your equipment. 
 
 Simple use of jonthysell's "SegaController" library, allowing the use of Sega Genesis/Mega Drive 6-Button controllers on JAMMA  hardware.
 
