@@ -52,6 +52,21 @@ Male DB9 Pinout (Front View):
 | 8       | GND         |
 | 9       | A5          |
 
+| Arduino Pin | JAMMA |
+|-------------|-------|
+| D1          | COIN  |
+| D2          | UP    |
+| D3          | DOWN  |
+| D4          | LEFT  |
+| D5          | RIGHT |
+| D6          | 1     |
+| D7          | 2     |
+| D8          | 3     |
+| D9          | 4     |
+| D10         | 5     |
+| D11         | 6     |
+| D12         | START |
+
 
 Wiring Diagram:
 ![alt text](https://github.com/MasterJhimmy/Sega-Genesis-to-JAMMA-controller-adapter/blob/main/wiring.jpg?raw=true)
